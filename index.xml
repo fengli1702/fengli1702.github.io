@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://fengli1702.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Feng web</title>
+    <link>https://fengli1702.github.io/</link>
+    <description>Recent content on Feng web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2024 15:00:07 +0800</lastBuildDate>
-    <atom:link href="http://fengli1702.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 16:24:53 +0800</lastBuildDate>
+    <atom:link href="https://fengli1702.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>https://fengli1702.github.io/post/second/</link>
+      <pubDate>Fri, 01 Mar 2024 16:24:53 +0800</pubDate>
+      <guid>https://fengli1702.github.io/post/second/</guid>
+      <description>2024/3/1 3/1日，第一篇博客 </description>
+    </item>
     <item>
       <title>First</title>
-      <link>http://fengli1702.github.io/post/first/</link>
+      <link>https://fengli1702.github.io/post/first/</link>
       <pubDate>Fri, 01 Mar 2024 15:00:07 +0800</pubDate>
-      <guid>http://fengli1702.github.io/post/first/</guid>
-      <description>#Hello&#xA;this is the first page&#xA;测试网站内容&#xA;200 ok</description>
+      <guid>https://fengli1702.github.io/post/first/</guid>
+      <description>#Hello</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://fengli1702.github.io/about/</link>
+      <link>https://fengli1702.github.io/about/</link>
       <pubDate>Fri, 01 Mar 2024 14:59:35 +0800</pubDate>
-      <guid>http://fengli1702.github.io/about/</guid>
+      <guid>https://fengli1702.github.io/about/</guid>
       <description></description>
     </item>
   </channel>
