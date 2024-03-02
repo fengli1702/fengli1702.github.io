@@ -23,6 +23,13 @@
       <description>文章</description>
     </item>
     <item>
+      <title>note</title>
+      <link>https://fengli1702.github.io/note/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fengli1702.github.io/note/index.html</guid>
+      <description>随机过程随机过程总结</description>
+    </item>
+    <item>
       <title>About</title>
       <link>https://fengli1702.github.io/about/index.html</link>
       <pubDate>Fri, 01 Mar 2024 14:59:35 +0800</pubDate>

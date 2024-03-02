@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>note on Feng web</title>
+    <link>https://fengli1702.github.io/note/index.html</link>
+    <description>Recent content in note on Feng web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://fengli1702.github.io/note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>随机过程</title>
+      <link>https://fengli1702.github.io/note/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fengli1702.github.io/note/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/index.html</guid>
+      <description>page 12.26
+page 23.4</description>
+    </item>
+  </channel>
+</rss>
