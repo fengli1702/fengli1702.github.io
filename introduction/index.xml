@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Feng web</title>
+    <link>https://fengli1702.github.io/introduction/index.html</link>
+    <description>Recent content in Introduction on Feng web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2024 19:10:15 +0800</lastBuildDate>
+    <atom:link href="https://fengli1702.github.io/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://fengli1702.github.io/introduction/first/index.html</link>
+      <pubDate>Fri, 01 Mar 2024 19:10:15 +0800</pubDate>
+      <guid>https://fengli1702.github.io/introduction/first/index.html</guid>
+      <description>this is my wedsite</description>
+    </item>
+  </channel>
+</rss>
