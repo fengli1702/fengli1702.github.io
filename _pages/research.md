@@ -3,11 +3,13 @@ title: Research
 permalink: /research/
 ---
 
-## Compiler–System Co-Design for GPUs
+## Ave: Guiding Agentic GPU Optimization Using Data-Flow Invariants
 
-*Research Assistant, Relaxed System Lab, HKUST · Started Summer 2025*
+*SOSP 2026*
 
-My work explores IR-level optimizations for GPU kernels used in large language models, including compiler–system co-design, GPU memory hierarchies, and kernel fusion. I have worked with TileLang and Triton, and developed and evaluated kernels on AMD and NVIDIA GPUs.
+Ave uses compile-time data-flow invariants to guide LLM agents in optimizing GPU kernels. It combines a tile-based DSL with compiler checks that provide feedback on invalid optimizations.
+
+[Paper](https://arxiv.org/abs/2604.18616) · [Proceedings](https://doi.org/10.1145/3830418.3843902)
 
 ## Out-of-Order CPU Design
 
