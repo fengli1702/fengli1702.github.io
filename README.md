@@ -17,7 +17,6 @@ license is preserved in `LICENSE`.
 | Education | `_data/education.yml` |
 | Teaching | `_data/teaching.yml` |
 | Awards | `_data/awards.yml` |
-| Research experience | `_pages/research.md` |
 | Web CV | `_pages/cv.md` |
 | Downloadable CV | `files/Daifeng_Li_CV.pdf` |
 | Additional styling | `assets/css/custom.css` |

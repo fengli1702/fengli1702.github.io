@@ -14,7 +14,7 @@ My research focuses on **machine learning systems**, with an emphasis on **GPU k
 
 Before joining HKUST, I received my B.S. in Computer Science from the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), where I was part of the Huaxia Computer Talent Program. I also worked as a research assistant in the Relaxed System Lab at HKUST on IR-level optimizations for GPU kernels.
 
-You can find my work on the [publications]({{ '/publications/' | relative_url }}) and [research]({{ '/research/' | relative_url }}) pages, and more about my background in my [CV]({{ '/cv/' | relative_url }}).
+You can find my work on the [publications]({{ '/publications/' | relative_url }}) page, and more about my background in my [CV]({{ '/cv/' | relative_url }}).
 
 ## Research Interests
 
