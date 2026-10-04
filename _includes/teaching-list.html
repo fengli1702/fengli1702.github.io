@@ -1,0 +1,7 @@
+{% for entry in site.data.teaching %}
+<div class="cv-entry">
+  <h3>{{ entry.course }}</h3>
+  <p>{{ entry.role }} <span class="entry-date">{{ entry.term }}</span></p>
+  <p>{{ entry.institution }}</p>
+</div>
+{% endfor %}

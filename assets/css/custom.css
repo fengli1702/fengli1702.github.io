@@ -1,0 +1,21 @@
+/* Small additions to the AcademicPages layout. */
+.author__chinese { margin: 0.25em 0 0.65em; color: #687078; }
+.author__avatar img { aspect-ratio: 1; object-fit: cover; }
+.page__content a { text-underline-offset: 3px; }
+.page__content h2 { margin-top: 1.7em; }
+.page__content h2:first-child { margin-top: 0.7em; }
+.cv-entry { margin: 0 0 1.65em; }
+.cv-entry h3 { font-size: 1em; margin: 0 0 0.35em; }
+.cv-entry p { margin: 0.25em 0; }
+.entry-date { display: block; color: #687078; font-size: 0.9em; }
+.publication-entry { padding: 0 0 1.3em; margin: 0 0 1.5em; border-bottom: 1px solid #eee; }
+.publication-entry h3 { margin-top: 1em; font-size: 1.1em; line-height: 1.4; }
+.publication-entry p { margin: 0.6em 0; }
+.publication-authors, .publication-venue { font-size: 0.9em; }
+.publication-links { font-size: 0.85em; }
+.publication-links span { margin: 0 0.45em; color: #9a9a9a; }
+.cv-note { color: #687078; font-size: 0.8em; }
+.awards-list li { margin-bottom: 0.9em; }
+a:focus-visible, button:focus-visible { outline: 2px solid #257a91; outline-offset: 4px; }
+@media (min-width: 768px) { .entry-date { display: inline; margin-left: 0.7em; } }
+@media (max-width: 767px) { .page__title { font-size: 1.65em; } .author__bio { max-width: 210px; } }

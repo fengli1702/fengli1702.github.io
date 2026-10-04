@@ -1,0 +1,13 @@
+- title: "Ave: Guiding Agentic GPU Optimization Using Data-Flow Invariants"
+  authors: "Haohui Mai, Xiaoyan Guo, Xiangyun Ding, <strong>Daifeng Li</strong>, Qiuchu Yu, Chenzhun Guo, Cong Wang, Jiacheng Zhao, Christos Kozyrakis, and Binhang Yuan"
+  venue: "ACM Symposium on Operating Systems Principles (SOSP), 2026"
+  year: 2026
+  paper: https://arxiv.org/abs/2604.18616
+  proceedings: https://doi.org/10.1145/3830418.3843902
+- title: "AReaL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models"
+  authors: "Jiarui Zhang, Yuchen Yang, Ran Yan, Zhiyu Mei, Liyuan Zhang, <strong>Daifeng Li</strong>, Wei Fu, Jiaxuan Gao, Shusheng Xu, Yi Wu, and Binhang Yuan"
+  venue: "International Conference on Machine Learning (ICML), 2026"
+  year: 2026
+  paper: https://arxiv.org/abs/2602.00482
+  proceedings: https://proceedings.mlr.press/v306/zhang26hr.html
+  code: https://github.com/areal-project/AReaL/tree/feat/dta

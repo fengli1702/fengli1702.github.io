@@ -1,0 +1,8 @@
+{% for paper in site.data.publications %}
+<article class="publication-entry">
+  <h3><a href="{{ paper.paper }}">{{ paper.title }}</a></h3>
+  <p class="publication-authors">{{ paper.authors }}</p>
+  <p class="publication-venue"><em>{{ paper.venue }}</em></p>
+  <p class="publication-links"><a href="{{ paper.paper }}">arXiv</a>{% if paper.proceedings %} <span aria-hidden="true">/</span> <a href="{{ paper.proceedings }}">Proceedings</a>{% endif %}{% if paper.code %} <span aria-hidden="true">/</span> <a href="{{ paper.code }}">Code</a>{% endif %}</p>
+</article>
+{% endfor %}

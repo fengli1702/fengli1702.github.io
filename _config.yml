@@ -1,0 +1,76 @@
+# Personal information and shared site settings.
+locale: en-US
+title: About
+name: Daifeng Li
+description: "Daifeng Li is a PhD student at HKUST, advised by Prof. Binhang Yuan, working on machine learning systems, GPU kernels, and compilers."
+url: https://fengli1702.github.io
+baseurl: ""
+repository: fengli1702/fengli1702.github.io
+timezone: Asia/Hong_Kong
+author:
+  name: Daifeng Li
+  chinese_name: 李岱峰
+  avatar: initials.svg
+  bio: "PhD Student in Computer Science"
+  location: Hong Kong
+  employer: HKUST
+  email: fengli1702@gmail.com
+  github: fengli1702
+  # Add your verified profile URL here when available.
+  googlescholar:
+advisor:
+  name: Binhang Yuan
+  url: https://binhangyuan.github.io/site/
+breadcrumbs: false
+words_per_minute: 160
+future: true
+read_more: disabled
+comments:
+  provider: false
+analytics:
+  provider: false
+atom_feed:
+  hide: true
+include:
+  - _pages
+  - files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - SOURCES.md
+  - vendor
+  - tmp
+  - .github
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+encoding: utf-8
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  entity_output: as_char
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      comments: false
+      share: false
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
