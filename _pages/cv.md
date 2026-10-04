@@ -18,7 +18,6 @@ permalink: /cv/
 ## Research Experience
 
 - **Research Assistant**, Relaxed System Lab, HKUST. Started Summer 2025. Compiler–system co-design and IR-level GPU kernel optimizations.
-- **Fairness in Cognitive Diagnosis**, Spring 2025. Ranking-based learning and evaluation across seven datasets.
 - **CPU Design**, Fall 2024. Four-issue out-of-order Loongson core on FPGA; National Third Prize at NSCSCC.
 
 ## Teaching Experience

@@ -1,7 +1,9 @@
 # Content provenance
 
 - Biography, research experience, teaching, and awards: user-supplied
-  `Lidaifeng_CV_phd.pdf`. The original PDF is preserved as `files/Daifeng_Li_CV.pdf`.
+  `Lidaifeng_CV_phd.pdf`. A public copy is provided as `files/Daifeng_Li_CV.pdf`,
+  with the cognitive-diagnosis project removed and the email obfuscated at the
+  user's request. The local source PDF is unchanged.
 - Current PhD status, advisor, and September 2026 enrollment: confirmed directly
   by Daifeng Li on 2026-10-04. Also listed at
   https://binhangyuan.github.io/site/.
@@ -16,5 +18,4 @@
   derived from https://github.com/academicpages/academicpages.github.io.
 
 No unverified Google Scholar profile, portrait, talks, or publication status
-has been supplied. The fairness project is listed as research experience,
-not as a published paper.
+has been supplied.

@@ -26,7 +26,9 @@ To add a photo, put it in `images/` and change `author.avatar` in `_config.yml`.
 The current avatar is a neutral initials graphic. Only add verified social
 profile URLs; unset fields are hidden.
 
-The PDF is the supplied pre-PhD CV. The website includes the September 2026
+The PDF is a public copy of the supplied pre-PhD CV, with the cognitive-diagnosis
+project removed and the email written using AT/DOT without a mailto link.
+The website includes the September 2026
 PhD enrollment confirmed by Daifeng; replace the PDF when an updated CV is ready.
 
 ## Preview locally
