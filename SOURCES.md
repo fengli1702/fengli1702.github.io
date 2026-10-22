@@ -1,5 +1,9 @@
 # Content provenance
 
+- D2K-Bench title, author order, year, and arXiv identifier: BibTeX supplied
+  by Daifeng Li on 2026-10-22, verified at https://arxiv.org/abs/2610.03226.
+  Listed as an arXiv preprint, with no conference acceptance claimed.
+
 - Biography, research experience, teaching, and awards: user-supplied
   `Lidaifeng_CV_phd.pdf`. A public copy is provided as `files/Daifeng_Li_CV.pdf`,
   with the cognitive-diagnosis project removed and the email obfuscated at the

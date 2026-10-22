@@ -1,3 +1,8 @@
+- title: "D2K-Bench: Can LLM Agents Turn Expert Designs into Efficient GPU Kernels?"
+  authors: "<strong>Daifeng Li</strong>, Huiqiang Jiang, Chengruidong Zhang, Wei Wu, Xudong Guo, Jianhong Tu, Jianwei Zhang, Binhang Yuan, and Dayiheng Liu"
+  venue: "arXiv preprint arXiv:2610.03226, 2026"
+  year: 2026
+  paper: https://arxiv.org/abs/2610.03226
 - title: "Ave: Guiding Agentic GPU Optimization Using Data-Flow Invariants"
   authors: "Haohui Mai, Xiaoyan Guo, Xiangyun Ding, <strong>Daifeng Li</strong>, Qiuchu Yu, Chenzhun Guo, Cong Wang, Jiacheng Zhao, Christos Kozyrakis, and Binhang Yuan"
   venue: "ACM Symposium on Operating Systems Principles (SOSP), 2026"
