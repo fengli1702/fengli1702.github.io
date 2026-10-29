@@ -15,7 +15,7 @@ permalink: /cv/
 
 ## Research & Industry Experience
 
-- **Research Intern, Alibaba Qwen Team**, March 2026–Present. LLM-based CUDA kernel generation and GPU operator optimization; participated in Qwen3.7-Max training and evaluation, including KernelBench evaluation.
+- **Research Intern, Alibaba Qwen Team**, March 2026–Present. First author of [D2K-Bench](https://arxiv.org/abs/2610.03226), released during this internship. LLM-based CUDA kernel generation and GPU operator optimization; participated in Qwen3.7-Max training and evaluation, including KernelBench evaluation.
 - **Core Contributor, Ave (formerly ARGUS)**, 2025–2026. Agentic GPU optimization guided by data-flow invariants; FlashAttention kernels on AMD GPUs, MoE and attention operators for vLLM/SGLang, benchmark execution, and ablation analysis.
 - **Research Assistant**, Relaxed System Lab, HKUST. Started Summer 2025. Compiler–system co-design and IR-level GPU kernel optimizations.
 - **CPU Design**, Fall 2024. Four-issue out-of-order Loongson core on FPGA; National Third Prize at NSCSCC.

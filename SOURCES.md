@@ -6,6 +6,8 @@
   updating education and publication details from the confirmed website data,
   removing the cognitive-diagnosis entry, and obfuscating the email. The supplied
   source PDF is unchanged.
+  Daifeng additionally confirmed on 2026-10-29 that D2K-Bench was released
+  during the Qwen internship; this connection is recorded in both CV versions.
 
 - D2K-Bench title, author order, year, and arXiv identifier: BibTeX supplied
   by Daifeng Li on 2026-10-22, verified at https://arxiv.org/abs/2610.03226.
