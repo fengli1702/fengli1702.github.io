@@ -1,13 +1,19 @@
 # Content provenance
 
+- Updated public CV and Qwen internship: `Daifeng_Li.pdf`, supplied by Daifeng
+  on 2026-10-29. Qwen role, dates, and experience are taken from that file.
+  The public PDF preserves its main content and layout while adding D2K-Bench,
+  updating education and publication details from the confirmed website data,
+  removing the cognitive-diagnosis entry, and obfuscating the email. The supplied
+  source PDF is unchanged.
+
 - D2K-Bench title, author order, year, and arXiv identifier: BibTeX supplied
   by Daifeng Li on 2026-10-22, verified at https://arxiv.org/abs/2610.03226.
   Listed as an arXiv preprint, with no conference acceptance claimed.
 
 - Biography, research experience, teaching, and awards: user-supplied
-  `Lidaifeng_CV_phd.pdf`. A public copy is provided as `files/Daifeng_Li_CV.pdf`,
-  with the cognitive-diagnosis project removed and the email obfuscated at the
-  user's request. The local source PDF is unchanged.
+  `Lidaifeng_CV_phd.pdf` (earlier source). The downloadable CV has been replaced
+  by the updated public version described above.
 - Current PhD status, advisor, and September 2026 enrollment: confirmed directly
   by Daifeng Li on 2026-10-04. Also listed at
   https://binhangyuan.github.io/site/.

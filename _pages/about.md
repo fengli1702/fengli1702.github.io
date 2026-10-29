@@ -16,6 +16,10 @@ Before joining HKUST, I received my B.S. in Computer Science from the [Universit
 
 You can find my work on the [publications]({{ '/publications/' | relative_url }}) page, and more about my background in my [CV]({{ '/cv/' | relative_url }}).
 
+## Papers & Preprints
+
+{% include publication-list.html %}
+
 ## Research Interests
 
 - Machine learning systems and efficient LLM training

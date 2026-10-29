@@ -25,10 +25,10 @@ To add a photo, put it in `images/` and change `author.avatar` in `_config.yml`.
 The current avatar is a neutral initials graphic. Only add verified social
 profile URLs; unset fields are hidden.
 
-The PDF is a public copy of the supplied pre-PhD CV, with the cognitive-diagnosis
-project removed and the email written using AT/DOT without a mailto link.
-The website includes the September 2026
-PhD enrollment confirmed by Daifeng; replace the PDF when an updated CV is ready.
+The PDF is based on the newer CV supplied by Daifeng on October 29, 2026,
+including the Alibaba Qwen Team internship. Its public version adds D2K-Bench,
+updates education and publication details to match the website, removes the
+cognitive-diagnosis entry, and writes the email using AT/DOT without a mailto link.
 
 ## Preview locally
 

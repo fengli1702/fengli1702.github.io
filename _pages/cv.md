@@ -5,8 +5,6 @@ permalink: /cv/
 
 [Download CV (PDF)]({{ '/files/Daifeng_Li_CV.pdf' | relative_url }}){: .btn .btn--primary }
 
-<p class="cv-note">The PDF is my pre-PhD CV. This page includes my current PhD affiliation and publications.</p>
-
 ## Education
 
 {% include education-list.html %}
@@ -15,8 +13,10 @@ permalink: /cv/
 
 {% include publication-list.html %}
 
-## Research Experience
+## Research & Industry Experience
 
+- **Research Intern, Alibaba Qwen Team**, March 2026–Present. LLM-based CUDA kernel generation and GPU operator optimization; participated in Qwen3.7-Max training and evaluation, including KernelBench evaluation.
+- **Core Contributor, Ave (formerly ARGUS)**, 2025–2026. Agentic GPU optimization guided by data-flow invariants; FlashAttention kernels on AMD GPUs, MoE and attention operators for vLLM/SGLang, benchmark execution, and ablation analysis.
 - **Research Assistant**, Relaxed System Lab, HKUST. Started Summer 2025. Compiler–system co-design and IR-level GPU kernel optimizations.
 - **CPU Design**, Fall 2024. Four-issue out-of-order Loongson core on FPGA; National Third Prize at NSCSCC.
 
